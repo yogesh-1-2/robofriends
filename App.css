@@ -1,0 +1,12 @@
+@font-face {
+font-family: 'Stroke Dimension Regular';
+font-style: normal;
+font-weight: bolder;
+src: local('Stroke Dimension Regular'), url('Stroke Dimension.woff') format('woff');
+font-size: 300%;
+}
+h1{
+  font-family: 'Stroke Dimension Regular';
+  text-shadow: 5px;
+  color: #022025; 
+}
